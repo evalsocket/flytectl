@@ -42,14 +42,14 @@ brews:
     
     # Github repository to push the tap to.
     tap:
-      owner: flyteorg
+      owner: evalsocket
       name: homebrew-tap
 
     # Git author used to commit to the repository.
     # Defaults are shown.
     commit_author:
-      name: Flyte-Bot
-      email: admin@flyte.org
+      name: evalsocket
+      email: code@evalsocket.dev
 
     # Your app's homepage.
     # Default is empty.
